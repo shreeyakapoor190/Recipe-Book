@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/pocketpills/Desktop/AngularL/Course proj 1/proj2/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "7bc1f1f3-0520-4b51-ad03-54c455e3d5c9"
   }
 }
